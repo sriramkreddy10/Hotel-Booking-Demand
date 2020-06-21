@@ -1,0 +1,4 @@
+# Hotel-Booking-Demand
+Portugal Hotels Dataset
+Our aim through this Visualization is to tell a story based on a hotel demand dataset by creating few visualizations. The dataset consists of data for two kinds of hotels (City/Resort). The story we are portraying here is from the hotel management perspective of which is the best time of the year to visit Portugal and what are the strategies that the hotel management should come up with in order to attract the customers.
+We were able to find some interesting relationships like the planned customers are less likely to cancel their reservations. If the hotel management is able to fulfill the customers special requests they are likely to stay at the hotel. Summer and late fall is the best time for hotel management as many of the tourists will be visiting the country due to festivals and best weather in Portugal.
